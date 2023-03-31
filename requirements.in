@@ -1,0 +1,4 @@
+trl
+wandb
+rouge-score
+pytorch-lightning==1.9.4
